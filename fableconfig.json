@@ -1,0 +1,24 @@
+{
+    "sourceMaps": true,
+    "outDir": "out",
+    // "rollup": {
+    //     "entry": "./out/Main.js",
+    //     "dest": "./out/bundle.js",
+    //     "moduleName": "main",
+    //     "plugins": [
+    //         ["commonjs", { "include": "node_modules/mithril/mithril.js"}],
+    //         ["node-resolve",{"jsnext":true,"main":true}]
+    //     ]},
+    "projFile": "./fxplorer.fsproj",
+    "scripts": {
+        "prebuild": "npm install",
+        "postbuild": "node ./node_modules/webpack/bin/webpack"
+    },
+    "targets": {
+        "watch": {
+            "scripts": {
+                "postbuild": "webpack --watch"
+            }
+        }
+    }
+}

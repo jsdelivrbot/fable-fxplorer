@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "dependencies": {
+    "core-js": "^2.4.0",
+    "fable-core": "^0.7.25",
+    "fable-powerpack": "0.0.19",
+    "mithril": "^0.2.5",
+    "todomvc-app-css": "^2.0.6"
+  },
+  "devDependencies": {
+    "bootstrap-css": "^3.0.0",
+    "fable-compiler": "^0.7.35",
+    "source-map-loader": "^0.1.5",
+    "loader-utils": "^0.2.16",
+    "webpack": "^2.2.0",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "scripts": {
+    "build": "fable",
+    "watch": "fable -w --target watch"
+  },
+  "name": "mithril-todo",
+  "version": "1.0.0",
+  "description": "mithril.fs test",
+  "author": "musheddev"
+}

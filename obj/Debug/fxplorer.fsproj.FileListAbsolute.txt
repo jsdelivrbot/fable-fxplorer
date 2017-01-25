@@ -1,0 +1,6 @@
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\bin\Debug\fxplorer.exe
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\bin\Debug\Fable.Core.dll
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\bin\Debug\FSharp.Core.dll
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\bin\Debug\Fable.Core.xml
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\bin\Debug\FSharp.Core.xml
+c:\Users\Orlando\Desktop\Active Projects\Fable-Fxplorer\obj\Debug\fxplorer.fsprojResolveAssemblyReference.cache
