@@ -120,7 +120,7 @@ or are automatically applied via regex from your webpack configuration.
 |Name|Status|Description|
 |:--:|:----:|:----------|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/json.svg">|![json-npm]|Loads a JSON file (included by default)|
-|<img width="48" height="48" src="https://cdn.rawgit.com/json5/json5-logo/master/json5-logo.svg">|![json5-npm]|Loads and transpiles a JSON 5 file|
+|<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/json5/json5-logo@master/json5-logo.svg">|![json5-npm]|Loads and transpiles a JSON 5 file|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/coffeescript.svg">|![cson-npm]|Loads and transpiles a CSON file|
 
 
@@ -138,7 +138,7 @@ or are automatically applied via regex from your webpack configuration.
 |`<script>`|![script-npm]|Executes a JavaScript file once in global context (like in script tag), requires are not parsed|
 |<img width="48" height="48" title="babel-loader" src="https://worldvectorlogo.com/logos/babel-10.svg">|[![babel-npm]][babel]|Loads ES2015+ code and transpiles to ES5 using <a href="https://github.com/babel/babel">Babel</a>|
 |<img width="48" height="48" src="https://google.github.com/traceur-compiler/logo/tc.svg">|![traceur-npm]|Loads ES2015+ code and transpiles to ES5 using [Traceur](https://github.com/google/traceur)|
-|<img width="48" height="48" src="https://cdn.rawgit.com/Microsoft/TypeScript/master/doc/logo.svg">|![type-npm]|Loads TypeScript like JavaScript|
+|<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/Microsoft/TypeScript@master/doc/logo.svg">|![type-npm]|Loads TypeScript like JavaScript|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/coffeescript.svg">|![coffee-npm]|Loads CoffeeScript like JavaScript|
 
 
@@ -158,7 +158,7 @@ or are automatically applied via regex from your webpack configuration.
 |Name|Status|Description|
 |:--:|:----:|:----------|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg">|![html-npm]|Exports HTML as string, require references to static resources|
-|<img width="48" height="48" src="https://cdn.rawgit.com/pugjs/pug-logo/master/SVG/pug-final-logo-_-colour-128.svg">|![pug-npm]|Loads Pug templates and returns a function|
+|<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/pugjs/pug-logo@master/SVG/pug-final-logo-_-colour-128.svg">|![pug-npm]|Loads Pug templates and returns a function|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/jade-3.svg">|![jade-npm]|Loads Jade templates and returns a function|
 |<img width="48" height="48" src="https://worldvectorlogo.com/logos/markdown.svg">|![md-npm]|Compiles Markdown to HTML|
 |<img width="48" height="48" src="http://posthtml.github.io/posthtml/logo.svg">|![posthtml-npm]|Loads and transforms a HTML file using [PostHTML](https://github.com/posthtml/posthtml)|
